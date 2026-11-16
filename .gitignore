@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# Données : jamais sur GitHub
+data/raw/
+data/clean/
+data/processed/
+*.csv
+*.xls
+*.xlsx
+*.zip
+*.parquet
